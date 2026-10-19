@@ -1,0 +1,17 @@
+{
+  "payload": {
+    "schema": 1,
+    "product": "titanium-online",
+    "license_id": "97bd4f96-2612-4980-8cb9-a5f1b29fd625",
+    "licensee": "\u041a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0447",
+    "issued_at": "2026-09-11T13:03:10.875390+00:00",
+    "expires_at": "2026-12-20T13:03:10.875390+00:00",
+    "revoked": false,
+    "note": "",
+    "key_hash": "554d3df469fda2f74c178115de7488cecba01bf2dfa3a31f456af4486867436b",
+    "key_id": "sxe4kz",
+    "seats": 1,
+    "user_id": "988678006cc14c59b2c6c2f733e4c876"
+  },
+  "signature": "/yiIeIFl050pioctbamVX3hT4qv90q/cwZcz2rK7SJbpyIrB9NjiP7a2ZZRSwE2CUAMwbrpOakIxnnN/88dVDw=="
+}
