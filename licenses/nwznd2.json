@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "schema": 1,
+    "product": "titanium-online",
+    "license_id": "58d2c8f3-629c-44d8-a4da-c1aca2d97989",
+    "licensee": "1",
+    "issued_at": "2026-09-09T09:36:35.132175+00:00",
+    "expires_at": "2029-06-04T09:36:35.132175+00:00",
+    "revoked": false,
+    "note": "",
+    "key_hash": "ee513c4d522143f027073a8f551fac1e739514c92075a46b402366c10478da1e",
+    "key_id": "nwznd2",
+    "seats": 1
+  },
+  "signature": "d5fTgNQx6L0F549cq4Nh6D9VMcYFkJa0C0ocEigag24f8MjwLtxZNFtMG2QqMhI1sRBT+yHt2XuWqwDiChT4Cw=="
+}
