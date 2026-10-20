@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "schema": 1,
+    "product": "titanium-online",
+    "version": "4.1.8",
+    "tag": "v4.1.8",
+    "notes": "4.1.7\u0430: \u0432\u0438\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044f \u0456\u043d\u0441\u0442\u0430\u043b\u0435\u0440\u0430 \u0442\u0430 \u043f\u0443\u0431\u043b\u0456\u0447\u043d\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0443 \u043e\u043d\u043e\u0432\u043b\u0435\u043d\u044c",
+    "published_at": "2026-10-20T05:56:36.032179+00:00",
+    "assets": [
+      {
+        "kind": "zip",
+        "name": "zip-4.1.8.tnx",
+        "plain_name": "TitaniumOnline-4.1.8.zip",
+        "plain_sha256": "2e7b84e4850cf989f0c119dbb0ff6e99bce7675ba9b962566d14802e45c07630",
+        "plain_size": 33173189,
+        "sha256": "cacf0f2b446f1a6a3dcbd7f886174ae8d42c89b91feaf2575bd27fa9ac4eecea",
+        "size": 33173349
+      },
+      {
+        "kind": "launcher",
+        "name": "launcher-4.1.8.tnx",
+        "plain_name": "Titanium.exe",
+        "plain_sha256": "9cc67045667c4200eeef5ec7dc5fab377d3752fa9e3ca9c75aedd24ae7b70eb2",
+        "plain_size": 452096,
+        "sha256": "f45ced00a5178274de7ec15088affc0af1d572e3b4454aa8800d7e15b986fd06",
+        "size": 452144
+      },
+      {
+        "kind": "setup",
+        "name": "setup-4.1.8.tnx",
+        "plain_name": "TitaniumNexusSetup.exe",
+        "plain_sha256": "91365a8a32fa8b79ae494b2c14f14b46fc6f7ad1edf4ccc15b106cd8f5dd1119",
+        "plain_size": 500736,
+        "sha256": "947458da19b3b240d699e4d1cee8455a22b88741353c7b284a81215c61dd45f7",
+        "size": 500784
+      }
+    ]
+  },
+  "signature": "J4uab42k2l0SX/o8ojZCNL11iaqb9qi761SacdvK7+G7UdpYx/YsJRKz7zKL9NSDLhAz3A3bCflSxTf5SZhyBg=="
+}
