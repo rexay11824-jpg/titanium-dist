@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "schema": 1,
+    "product": "titanium-online",
+    "kind": "map",
+    "sha256": "28137e2b1ec320bca5cebd5d952b6eee21efc26a26abace165d326f02dfe7ff6",
+    "size_bytes": 1043251553,
+    "release_tag": "map-28137e2b1ec3",
+    "asset_name": "ukraine.pmtiles",
+    "updated_at": "2026-10-27"
+  },
+  "signature": "0SPy3kHEpoN3Sca/uwXjCm7H5jOmRCumanIUTLNm/j5x4nmgpX3ctC4vjwG+oC72sUBBXco1Mc9Kg+bwGEDWBw=="
+}
