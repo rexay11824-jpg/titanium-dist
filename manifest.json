@@ -2,39 +2,39 @@
   "payload": {
     "schema": 1,
     "product": "titanium-online",
-    "version": "4.1.10",
-    "tag": "v4.1.10",
-    "notes": "ArgonSetUp/ForecastXLSX_GP",
-    "published_at": "2026-10-27T09:15:24.064260+00:00",
+    "version": "4.2.0",
+    "tag": "v4.2.0",
+    "notes": "Stable/Polishing_start",
+    "published_at": "2026-11-06T08:53:21.895302+00:00",
     "assets": [
       {
         "kind": "zip",
-        "name": "zip-4.1.10.tnx",
-        "plain_name": "TitaniumOnline-4.1.10.zip",
-        "plain_sha256": "99b7d91999737264ced334f7a920c7c55e045de4e4fcde5560eb1a1aa9edf55b",
-        "plain_size": 33874886,
-        "sha256": "1113f56f503ff765dad9d2276a13e92c708fbec78a57ea2237371b6a471b290f",
-        "size": 33875062
+        "name": "zip-4.2.0.tnx",
+        "plain_name": "TitaniumOnline-4.2.0.zip",
+        "plain_sha256": "91c39997d695f2bc71d2b339c28eb224263d17602eb8c6c6360228765ba63ee4",
+        "plain_size": 34374633,
+        "sha256": "c6ba8bb838030546e6d27662aa55411c1ca3bc0fa41bba68d940a447149a0bf1",
+        "size": 34374809
       },
       {
         "kind": "launcher",
-        "name": "launcher-4.1.10.tnx",
+        "name": "launcher-4.2.0.tnx",
         "plain_name": "Titanium.exe",
-        "plain_sha256": "cff233b7db68a8a88805c7bb69d24cd372d31b99c8cde9bf9707387513c69e54",
+        "plain_sha256": "ae530a74124084cdec0f11fc8a15c898b27879d4417f85571e4058408cdbf5d2",
         "plain_size": 468992,
-        "sha256": "89722b0482cc790e4a93ba400d9600fc57e0f809874aadb5f757e953bfd31873",
+        "sha256": "0e83e664e6bf01d9bde6e8cd70f3eb2dcc03096279c0127d8cad5397e0be804e",
         "size": 469040
       },
       {
         "kind": "setup",
-        "name": "setup-4.1.10.tnx",
+        "name": "setup-4.2.0.tnx",
         "plain_name": "TitaniumNexusSetup.exe",
-        "plain_sha256": "d30d6c350a5ff9b8eb8e5dccd1d4c5ecb84b111a4a50567460396d2d69b2d4cc",
-        "plain_size": 515072,
-        "sha256": "191eb8c0ea068d7234ee5b82573747342c2d6d33b2fd3b81e1db900bbd12a77b",
-        "size": 515120
+        "plain_sha256": "d2ef54d86f37797d6381fce9e7e96bee42482f3b69682aed41b54d49452a210a",
+        "plain_size": 515584,
+        "sha256": "442aea598d68638ca531feb793750f8bfaf081639c2641b1ff379c80d765af22",
+        "size": 515632
       }
     ]
   },
-  "signature": "b6QigqhJF5a21UtIrnY3ZT7JKlhWEa1VnN8D/4WmuP+fUWstShAlfQ9rDzmnhIpNrRgdN/gnDqyWabpNHSesDQ=="
+  "signature": "sMIsong5Eo/cIEVCrO32gLdFj4mxHP+EleMdTadLfTfjlHMlW0DDKNoEtU681GJVASt9XTCsydAyMyVF+vJoDw=="
 }
