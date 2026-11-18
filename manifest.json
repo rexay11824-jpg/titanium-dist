@@ -2,39 +2,39 @@
   "payload": {
     "schema": 1,
     "product": "titanium-online",
-    "version": "4.2.0",
-    "tag": "v4.2.0",
-    "notes": "Stable/Polishing_start",
-    "published_at": "2026-11-06T08:53:21.895302+00:00",
+    "version": "4.2.1",
+    "tag": "v4.2.1",
+    "notes": "Ui upd",
+    "published_at": "2026-11-18T09:06:00.274183+00:00",
     "assets": [
       {
         "kind": "zip",
-        "name": "zip-4.2.0.tnx",
-        "plain_name": "TitaniumOnline-4.2.0.zip",
-        "plain_sha256": "91c39997d695f2bc71d2b339c28eb224263d17602eb8c6c6360228765ba63ee4",
-        "plain_size": 34374633,
-        "sha256": "c6ba8bb838030546e6d27662aa55411c1ca3bc0fa41bba68d940a447149a0bf1",
-        "size": 34374809
+        "name": "zip-4.2.1.tnx",
+        "plain_name": "TitaniumOnline-4.2.1.zip",
+        "plain_sha256": "a9a19e2d5638e67952f51e0ead8b057bc2a19cb42d652ec4c296a93a8ca26694",
+        "plain_size": 34475760,
+        "sha256": "8e764ec31e6f4c83767eb02f3bb591cbd7aee1e16424a5c6fd738238b7f0b6f1",
+        "size": 34475936
       },
       {
         "kind": "launcher",
-        "name": "launcher-4.2.0.tnx",
+        "name": "launcher-4.2.1.tnx",
         "plain_name": "Titanium.exe",
-        "plain_sha256": "ae530a74124084cdec0f11fc8a15c898b27879d4417f85571e4058408cdbf5d2",
+        "plain_sha256": "139d9ba83bda376e06f47669598025fa049e0b8abacbc72efcfbd977ec5fea7c",
         "plain_size": 468992,
-        "sha256": "0e83e664e6bf01d9bde6e8cd70f3eb2dcc03096279c0127d8cad5397e0be804e",
+        "sha256": "68866bff42b9e72af4ea308bf7026fec92816cff1ff1428574056e506968c320",
         "size": 469040
       },
       {
         "kind": "setup",
-        "name": "setup-4.2.0.tnx",
+        "name": "setup-4.2.1.tnx",
         "plain_name": "TitaniumNexusSetup.exe",
-        "plain_sha256": "d2ef54d86f37797d6381fce9e7e96bee42482f3b69682aed41b54d49452a210a",
+        "plain_sha256": "d21f12cc2c6b54b8299080b6393f6a945d3f74dffdcee36dbb85a21fc87d0dd1",
         "plain_size": 515584,
-        "sha256": "442aea598d68638ca531feb793750f8bfaf081639c2641b1ff379c80d765af22",
+        "sha256": "7134dfa6d8c4ea664882b7d3d2a9241a344fa269dfa399582d9ad2c600397c3b",
         "size": 515632
       }
     ]
   },
-  "signature": "sMIsong5Eo/cIEVCrO32gLdFj4mxHP+EleMdTadLfTfjlHMlW0DDKNoEtU681GJVASt9XTCsydAyMyVF+vJoDw=="
+  "signature": "h0PrxVgL2QjIBSUFUIb/HAvvaTjo+R7wcy2b9gO9/zzHe9nQK9JIKS+i5s+BVA/p5FhNLWbV7890R6Xgcdk1AA=="
 }
